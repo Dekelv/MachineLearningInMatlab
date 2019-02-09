@@ -16,6 +16,7 @@ t_max=100;
 w=zeros(k);
 w=datasample(w6_1x,k);
 
+%begin h_vq as a func of t plot
 figure
 hold on;
 
